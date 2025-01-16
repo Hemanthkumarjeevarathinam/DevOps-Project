@@ -76,3 +76,6 @@ Technologies used:
 
 ## Deployed Application
 Access the deployed application at (http://34.229.220.196/).
+
+## Project Screenshots Link
+https://drive.google.com/drive/folders/1LaU99eg0YY8sQnh9HXQJMKgX_UZ9Osxz?usp=sharing
